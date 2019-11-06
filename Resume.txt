@@ -1,0 +1,75 @@
+ 
+Data Science professional experience global enterprise organizations. Deep knowledge Big Data, Data Science, Statistics, and Actuarial Science. Two SOA, CFA  and SAS Advanced programmer (100% in SQL and macro) certified. Familiar with Python, R, SQL. Highly enthusiastic about statistical analysis and machine learning.
+ 
+Statistics
+Honors
+Best
+Actuarial Science
+
+
+Machine Learning,
+Design & Analysis of Algorithm,
+Advanced Time Series Analysis,
+Bayesian Statistics,
+Survival Analysis,
+Data Analysis
+
+
+SAS Advanced Programmer,
+CFA,
+SOA P and FM
+
+
+Programming
+Python, R, SAS, SQL, Java
+Python, 
+Python 
+
+
+Software
+Spyder, Jupyter Notebook, 
+R studio, SAS, 
+Tableau, Power BI, 
+Google Analytics, Gephi,
+Excel,  Excel LaTex,
+AWS, GCP, 
+Tableau  Tableau  Tableau 
+
+Database
+MS SQL Server, 
+MySQL, 
+BMC RemedyPROFESSIONAL EXPERIENCEData Science Intern                                                                                                                 
+Insurance		                                                                         
+* Data Acquisition: SQL 
+* Data Extracting (NLP):  Text-mining in Python on 171M+ transactions of homeowner insurance values 
+* Presentation: product update process for 55 projects core content (loss cost, rules & forms) Associate Data Analyst                                                                                                            
+		                                                  
+* Data Integration & Asset Management: over 5000 assets ($25M) to online Database, 60% of lost assets and 20% optimization in asset utilization
+* Data Acquisition & Visualization: 600,000 real-time Data to automate reports and dashboards for associate dean review of financials and metrics
+* Data Analysis: 
+* affordability, sustainability
+* Financial Modeling: 5-year funding plan and maximized the usage of the existing assets
+Operations Analyst                                                                                                                  
+* Data Visualization: reports project profitability 
+* Negotiation: contract negotiations Accounting Analyst                                                                                                                 
+*  “Should-cost” Analysis:  
+Actuarial Product Development Specialist                                                                           
+Insurance 
+* Actuarial Modeling: products insurance 
+RELEVANT PROJECTSNasdaq Tick Data VWAP	                                                                                                 
+* Data Decoding: Nasdaq binary Data, Python
+* Data Forecasting: seasonality patterns forecast 
+
+Job Description and Resume Matching System – Career Map		
+* Data Wrangling:  JSON TXT Dataset Python
+* String Similarity Algorithm: n-grams, TF-IDF, Cosine Similarity
+* Cloud Computing: matching system Cloud server
+* Data Visualization: Wordclouds Career Map 
+Hidden Markov Models (HMM) for Regime Detection		                                   
+* Data Simulation: Simulated Data  market 
+* Data Acquisition R
+* Data Transformation: Log transformed Data Stationary
+* Model Fitting: HMM 
+
+
+
