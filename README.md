@@ -1,4 +1,4 @@
-# World-Cloud-for-LinkedIn-Cover-Photo
+# Word-Cloud-for-LinkedIn-Cover-Photo
 ## Step 1: Save Resume as txt file
 ### Resume.txt
 
